@@ -9,6 +9,8 @@ discovery, but we want to go a step further and provide information that foodies
 but may not necessarily want to search for. For example, a user gets to see the collection
 of restaurants under “restaurants with a view” if he/she wants to go eat and drink at
 someplace scenic.
+
+## Course Project - Information Organization and Retrieval
 Our aim is to build an information organization and retrieval system for foodies to
 search for restaurants on Yelp based on similarity of user reviews . Although Yelp
 provides some minimal categorization, we plan to add some additional features that are
